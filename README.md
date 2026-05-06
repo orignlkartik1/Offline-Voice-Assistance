@@ -1,7 +1,7 @@
 # Offline Voice Assistance 
 ---
 
-This voice assistance runs locally in your system and secure your privacy.
+This voice assistance runs locally in your system and helps in secure your privacy.
 ---
 
 # Tech Stack
